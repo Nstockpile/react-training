@@ -1,0 +1,16 @@
+{
+  "name": "test-react-training",
+  "version": "1.0.1",
+  "description": "react training",
+  "main": "index.js",
+  "repository": "https://nandhu3105@bitbucket.org/nandhu3105/stockpile.git",
+  "author": "N",
+  "license": "MIT",
+  "scripts": {
+    "dev": "make dev",
+    "test": "make test"
+    },
+  "dependencies": {   
+    "express": "4.16.3"
+    }
+}
